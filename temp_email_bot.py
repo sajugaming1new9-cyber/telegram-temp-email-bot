@@ -391,7 +391,7 @@ async def aide(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     """Fonction principale"""
-    TOKEN = "8723145290:AAFp4Ew8Zqi8hljtOPPm6owq9Z4HA4GXpjo"  # ⚠️ Remplacez par un nouveau token généré via @BotFather
+    TOKEN = "8644047565:AAFnyt-RLdvKJoBlrrbawocAnOxeMLmp9zs"  # ⚠️ Remplacez par un nouveau token généré via @BotFather
 
     app = Application.builder().token(TOKEN).build()
 
